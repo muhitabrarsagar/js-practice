@@ -95,13 +95,13 @@
 // }
 
 
-// var age = 50
-// if (age>=18){
+var age = 50
+if (age>=18){
     
-//     console.log('entry');
-// }else{
-//     console.log('no entry');
-// }
+    console.log('entry');
+}else{
+    console.log('no entry');
+}
 
 
 
